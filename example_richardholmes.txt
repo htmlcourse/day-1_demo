@@ -1,0 +1,29 @@
+<main>
+  
+  <header>
+    <img src="https://user-images.githubusercontent.com/171037/50840685-151c1d00-1331-11e9-9140-fff8865cd8aa.jpg" alt="Richard Holmes">
+    <h1>Richard Holmes</h1>
+    <h2>Film Producer, Executive Producer, and Film Advisor in London, United Kingdom</h2>
+  </header>
+
+  <section>
+    <a href="#">Visit my website</a>
+    <p>Has enjoyed sitting on both sides of the Independent Film Table</p>
+    <p>Producing credits include Shooting Fish, Waking Ned, Eden Lake, Resistance, Jadoo, Keeping Rosy and The Ritual</p>
+    <p>Executive Producer on 45 Years, Light Years, Orion: The Man Who Would Be King, Burn Burn Burn, The Lovers & The Despot, Adult Life Skills, Notes On Blindness, The Ecstasy Of Wilko Johnson, The Call Up, The Girl With All The Gifts, God's Own Country</p>
+    <p>See: bigrichfilms.com & advancedproducing.com</p>
+  </section>
+  
+  <footer>
+    <dl>
+      <dt>Work</dt>
+      <dd>Big Rich Films</dd>
+    </dl>
+    <dl>
+      <dt>Education</dt>
+      <dd>York University</dd>
+    </dl>
+  </footer>
+
+</main>
+
