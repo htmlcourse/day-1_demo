@@ -8,4 +8,5 @@ To introduce some of the objectives of the course, create a web page using an co
 
 ![example_richardholmes](https://user-images.githubusercontent.com/171037/50840666-06ce0100-1331-11e9-9d1f-670878993bcc.png)
 
+- Original Profile: https://about.me/richardholmes
 - Finished Codepen: https://codepen.io/tomkeays/pen/a71923dc7ac48c6cd493f36824ffacca
