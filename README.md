@@ -1,6 +1,6 @@
 # First Day Demo
 
-To introduce some of the objectives of the course, create a web page using an comp (image).
+To introduce some of the objectives of the course, create a web page using a comp.
 
 - Play down pixel-perfect design in favor of designing in the browser.
 - Work with new flex and grid layout options rather than older hacks (we'll learn some of the fallback "hacks" though too).
